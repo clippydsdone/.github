@@ -21,3 +21,5 @@ Our team is supervised by:
 - Ivana Bosnić (FER)
 
 Currently we are working on [Clippy: smart PDF reader for better paper reading experience and knowledge mining](https://conf.researchr.org/track/icse-2023/icse-2023-score-2023#clippy:-smart-pdf-reader-for-better-paper-reading-experience-and-knowledge-mining).
+
+Live production version of Clippy can be found here: [![Heroku](https://clippypdf.herokuapp.com/index.html/?app=heroku-badge)]
