@@ -1,5 +1,8 @@
 # Team Clip It & Ship It
 
+Live production version of Clippy can be found [here](https://clippypdf.herokuapp.com).
+Development version of Clippy can be found [here](https://clippydev.herokuapp.com).
+
 Clip It & Ship It is team for Distributed Software Development (DSD) course. DSD is a joint course of:
 
 - Mälardalen University (MdU), [IDT Embedded Systems](http://www.es.mdh.se), Sweden
@@ -21,5 +24,3 @@ Our team is supervised by:
 - Ivana Bosnić (FER)
 
 Currently we are working on [Clippy: smart PDF reader for better paper reading experience and knowledge mining](https://conf.researchr.org/track/icse-2023/icse-2023-score-2023#clippy:-smart-pdf-reader-for-better-paper-reading-experience-and-knowledge-mining).
-
-Live production version of Clippy can be found [here](https://clippypdf.herokuapp.com).
