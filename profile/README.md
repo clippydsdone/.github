@@ -1,6 +1,7 @@
 # Team Clip It & Ship It
 
 Live production version of Clippy can be found [here](https://clippypdf.herokuapp.com).
+
 Development version of Clippy can be found [here](https://clippydev.herokuapp.com).
 
 Clip It & Ship It is team for Distributed Software Development (DSD) course. DSD is a joint course of:
